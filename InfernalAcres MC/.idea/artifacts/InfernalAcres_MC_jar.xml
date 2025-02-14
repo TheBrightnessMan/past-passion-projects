@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfernalAcres MC:jar">
+    <output-path>$USER_HOME$/Desktop/FTP Server</output-path>
+    <root id="archive" name="InfernalAcres MC.jar">
+      <element id="module-output" name="InfernalAcres MC" />
+    </root>
+  </artifact>
+</component>

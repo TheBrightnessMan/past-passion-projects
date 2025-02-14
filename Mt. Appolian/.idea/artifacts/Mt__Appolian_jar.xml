@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mt. Appolian:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mt__Appolian_jar</output-path>
+    <root id="archive" name="Mt. Appolian.jar">
+      <element id="module-output" name="Mt. Appolian" />
+    </root>
+  </artifact>
+</component>

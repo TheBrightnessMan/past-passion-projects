@@ -1,0 +1,29 @@
+name: BrightPlugin123
+main: me.Bright.main.MainClass
+version: 3.2
+api-version: 1.16
+commands:
+  sctoggle:
+    usage: /<command>
+    description: Staff Chat Toggle
+  sc:
+    usage: /<command>
+    description: Staff Chat
+  actoggle:
+    usage: /<command>
+    description: Admin Chat Toggle
+  ac:
+    usage: /<command>
+    description: Admin Chat
+  mutechat:
+    usage: /<command>
+    description: Mutes Chat
+  cmdspy:
+    usage: /<command>
+    description: Spy
+  bright:
+    usage: /<command>
+    description: Bright
+  kits:
+    usage: /<command>
+    description: Kits menu

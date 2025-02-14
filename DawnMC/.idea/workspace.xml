@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DawnMC:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0edc2a30-dc91-4751-bffe-315366f39498" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cZkX9nOXTS7DhakVqEinW6I3Ae" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/APIs used in Bukkit Coding/ProtocolLib.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bright\Dropbox\IntelliJ\DawnMC\src\main\resources" />
+      <recent name="C:\Users\Bright\Dropbox\IntelliJ\DawnMC\src\main\java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="events" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0edc2a30-dc91-4751-bffe-315366f39498" name="Default Changelist" comment="" />
+      <created>1590743539767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590743539767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1597050347947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1597050347947" />
+    <state x="136" y="0" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1594966690381" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1595942757202">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1595942757202" />
+    <state x="502" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1594967123930" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594040658193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1594040658193" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597050600713">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1597050600713" />
+    <state x="348" y="82" key="FileChooserDialogImpl" timestamp="1595487903227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595487903227" />
+    <state x="392" y="104" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1594968433654" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1597051605763">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597051605763" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1597051605763">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597051605763" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1597051605763">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597051605763" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1597051605763">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597051605763" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1594030438615">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1594030438615" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1597051148113">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597051148113" />
+    <state x="136" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1594968437106" />
+    <state x="452" y="119" key="chooseDestDirectoryDialog" timestamp="1594526007277">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="119" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1594526007277" />
+    <state x="375" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597050986681">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="232" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1597050986681" />
+    <state x="91" y="3" key="new project wizard" timestamp="1597051211929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="3" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1597051211929" />
+    <state x="102" y="125" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1591959163427" />
+    <state x="348" y="98" key="refactoring.ChangeSignatureDialog" timestamp="1593593690589">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="98" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1593593690589" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1597051144461">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1597051144461" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597051137622">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597051137622" />
+  </component>
+</project>

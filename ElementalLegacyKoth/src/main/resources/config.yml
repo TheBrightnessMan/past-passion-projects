@@ -1,0 +1,30 @@
+# Define the region for the top of the hill
+# Default: (0, 0, 0) (0, 0, 0)
+region:
+  corner1:
+    ==: org.bukkit.Location
+    world: Elenora
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 0.0
+  corner2:
+    ==: org.bukkit.Location
+    world: Elenora
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    pitch: 0.0
+    yaw: 0.0
+
+# Duration of the event / game in ticks
+# Default: 3 minutes
+durationTicks: 3600
+
+# Time in milliseconds of the next event
+kothTime: 0
+airdropTime: 0
+
+kothRewards: {}
+airdropRewards: {}

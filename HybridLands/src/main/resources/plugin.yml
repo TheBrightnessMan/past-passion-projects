@@ -1,0 +1,8 @@
+name: BrightPlugin
+version: '${project.version}'
+main: me.bright.brightplugin.BrightPlugin
+author: ItzMeBright
+commands:
+  sc:
+    usage: /sc <message>
+    description: Send a message to all staff members online

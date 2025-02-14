@@ -1,0 +1,124 @@
+main: me.bright.main.BrightPlugin
+version: 0.0.1
+name: InfernalStaff
+author: Bright
+database: true
+api-version: 1.18
+
+commands:
+  tempban:
+    usage: /tempban [player] [length] [dateUnit] <reason>
+    permission: bright.tempban
+  ban:
+    usage: /ban [player] {reason}
+    permission: bright.ban
+  ipban:
+    usage: /ipban [player] {reason}
+    permission: bright.ipban
+  ac:
+    usage: /ac {message}
+    permission: bright.ac
+    description: Admin Chat
+  bc:
+    usage: /bc {message}
+    permission: bright.bc
+    description: Builder Chat
+  dc:
+    usage: /ac {message}
+    permission: bright.dc
+    description: Dev Chat
+  sc:
+    usage: /sc {message}
+    permission: bright.sc
+    description: Staff Chat
+  invsee:
+    usage: /invsee [player]
+    permission: bright.invsee
+  mutechat:
+    usage: /mutechat
+    permission: bright.mutechat
+  clearchat:
+    usage: /clearchat
+    permission: bright.clearchat
+  history:
+    usage: /history [player]
+    permission: bright.history
+  mute:
+    usage: /mute [player] {reason}
+    permission: bright.mute
+  tempmute:
+    usage: /tempmute [player] [length] [dateUnit] <reason>
+    permission: bright.tempmute
+  unmute:
+    usage: /unmute [player] <-s>
+    permission: bright.unmute
+  unban:
+    usage: /unban [player] <-s>
+    permission: bright.unban
+  unbanip:
+    usage: /unbanip [player] <-s>
+    permission: bright.unbanip
+  v:
+    aliases: vanish
+    usage: /v
+    permission: bright.vanish
+  bp:
+    usage: /bp
+    description: Toggles Item Pick Up while in vanish
+    permission: bright.itempickup
+
+permissions:
+  bright.*:
+    description: Grants permission to all commands in this plugin.
+    children:
+      bright.mutechat: true
+      bright.mutechatbypass: true
+      bright.clearchat: true
+      bright.clearchatbypass: true
+      bright.ac: true
+      bright.bc: true
+      bright.dc: true
+      bright.sc: true
+      bright.invsee: true
+      bright.invseebypass: true
+
+      bright.ban: true
+      bright.banexempt: true
+      bright.notifysilentban: true
+
+      bright.unban: true
+      briht.notifysilentunban: true
+
+      bright.tempban: true
+      bright.tempbanexempt: true
+      bright.notifysilenttempban: true
+
+      bright.ipban: true
+      bright.ipbanexempt: true
+      bright.notifysilentipban: true
+
+      bright.unbanip: true
+      bright.notifysilentunbanip: true
+
+      bright.history: true
+      bright.mute: true
+      bright.muteexempt: true
+      bright.notifysilentmute: true
+      bright.notifysilentunmute: true
+
+      bright.vanish.admin: true
+
+      bright.xraydetect: true
+
+  bright.vanish.admin:
+    children:
+      bright.vanish.mod: true
+      bright.vanish.itempickup: true
+
+  bright.vanish.mod:
+    children:
+      bright.vanish.helper: true
+
+  bright.vanish.helper:
+    children:
+      bright.vanish: true

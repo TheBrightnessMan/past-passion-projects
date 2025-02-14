@@ -1,0 +1,14 @@
+name: BrightPlugin
+version: '${project.version}'
+main: me.bright.main.BrightPlugin
+api-version: 1.20
+author: Bright
+softdepend:
+  - PlaceholderAPI
+commands:
+  koth:
+    usage: /<command>
+    description: General command for King of the Hill
+  airdrop:
+    usage: /<command>
+    description: General command for Airdrops

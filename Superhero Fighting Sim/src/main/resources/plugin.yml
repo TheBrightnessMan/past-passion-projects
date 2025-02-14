@@ -1,0 +1,8 @@
+name: TestPlugin
+main: me.Bright.main.MainClass
+version: 3.2
+api-version: 1.16
+commands:
+  kits:
+    usage: /<command>
+    description: Kits menu

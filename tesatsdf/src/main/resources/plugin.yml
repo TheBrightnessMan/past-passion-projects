@@ -1,0 +1,12 @@
+name: BrightUtils
+main: me.Bright.main.Main
+author: Bright
+version: 3.0
+api-version: 1.16
+commands:
+  thestones:
+    usage: /<command>
+    description: desc
+  spawnnpc:
+    usage: /<command>
+    description: desc

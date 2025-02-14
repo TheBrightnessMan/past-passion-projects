@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HypixelSkyblock:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HypixelSkyblock_jar</output-path>
+    <root id="archive" name="HypixelSkyblock.jar">
+      <element id="module-output" name="HypixelSkyblock" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/APIs used in Bukkit Coding/spigot-1.14.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

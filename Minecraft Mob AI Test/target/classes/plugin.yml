@@ -1,0 +1,11 @@
+name: BrightPlugin
+main: me.Bright.main.MainClass
+version: 1.0
+api-version: 1.14
+commands:
+  spawnCustomMob:
+    usage: /<command>
+    description: Command
+  getitem:
+    usage: /<command>
+    description: Command 2

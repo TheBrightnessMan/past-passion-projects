@@ -1,0 +1,12 @@
+name: SoulShards
+author: Bright
+main: me.Bright.main.MainClass
+version: 1.0.0-SNAPSHOT
+api-version: 1.16
+commands:
+  soulshop:
+    usage: /<command>
+    description: Opens the Soul Shop
+  bright:
+    usage: /<command>
+    description: Dev debug commands

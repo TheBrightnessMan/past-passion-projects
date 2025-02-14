@@ -1,0 +1,9 @@
+main: me.Bright.main.BrightPlugin
+version: 1.0
+name: BrightPlugin
+api-version: 1.14
+commands:
+  hylumina:
+    permission: bright.hylumina
+    usage: /<command>
+    description: BrightPlugin Main Command

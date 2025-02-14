@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SoulShards:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoulShards_jar</output-path>
+    <root id="archive" name="SoulShards.jar">
+      <element id="module-output" name="SoulShards" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../APIs used in Bukkit Coding/spigot-1.16.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

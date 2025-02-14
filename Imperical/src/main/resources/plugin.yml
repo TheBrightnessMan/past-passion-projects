@@ -1,0 +1,5 @@
+main: me.Bright.main.BrightPlugin
+name: BrightPlugin
+version: 1.0
+depend:
+  - WorldEdit

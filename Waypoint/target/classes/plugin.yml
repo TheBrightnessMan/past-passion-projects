@@ -1,0 +1,8 @@
+name: BrightPlugin
+author: Bright
+main: me.Bright.main.BrightPlugin
+version: 0.0.1
+commands:
+  bright:
+    usage: /<command>
+    description: Test

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Superhero Fighting Sim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Superhero_Fighting_Sim_jar</output-path>
+    <root id="archive" name="Superhero Fighting Sim.jar">
+      <element id="module-output" name="BrightPlugin" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+main: me.Bright.main.MainClass
+name: BrightPlugin
+version: 1.0
+author: Bright
+api-version: 1.12
+commands:
+  getitem:
+    usage: /<command> <item>
+    description: Gives you the custom item
